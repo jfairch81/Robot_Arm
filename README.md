@@ -16,6 +16,9 @@
 * On wednesday Jude got the first servo connected and working with the code
 * Lukas started the Claw this week and is relatively far along
 
+<img src="Media/Wiring_Battery_Pack.jpg" width="200" height="200">
+
+
 ### Week 3 (Feb 3 - 7) - *Ahead of Schedule*
 
 * Monday Jude got two of the servos working, he also switched the blue breadboard potentiometers for the real ones
