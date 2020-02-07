@@ -24,3 +24,5 @@
 * On Wednesday Lukas made great progress on the claw, he finished every part except for how the servo will connect to it
 * Thursday Jude is working on updating GitHub
 * Lukas has almost finished the Claw and is preparing to do a motion study
+
+<img src="Media/Claw_Closed_Image.png" width="200" height="200">
