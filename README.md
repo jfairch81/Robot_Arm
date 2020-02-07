@@ -28,4 +28,4 @@
 * Thursday Jude is working on updating GitHub
 * Lukas has almost finished the Claw and is preparing to do a motion study
 
-<img src="Media/Claw_Closed_Image.png" width="200" height="200">
+<img src="Media/Claw_Closed_Image.png" width="200" height="200">    <img src="Media/Claw_Open_Image.png" width="200" height="200">
