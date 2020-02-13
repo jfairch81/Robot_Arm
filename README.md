@@ -29,3 +29,11 @@
 * Lukas has almost finished the Claw and is preparing to do a motion study
 
 <img src="Media/Claw_Closed_Image.png" width="200" height="200">    <img src="Media/Claw_Open_Image.png" width="200" height="200">
+
+### Week 4 (Feb 10 - 14) - *Ahead of Schedule*
+
+* Monday Jude and Lukas rethought sizing of the box and arm
+* On Wednesday Lukas resized box and started Resizing the arm to be a little smaller because compared to the box it was very large
+* On Wednesday Jude started and finished the base on which the entire arm will turn, He added holders for servos also
+* Thursday Lukas if finishing up the claw for good and Jude is working on GitHub documentation
+
