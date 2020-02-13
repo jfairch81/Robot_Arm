@@ -37,4 +37,4 @@
 * On Wednesday Jude started and finished the base on which the entire arm will turn, He added holders for servos also
 * Thursday Lukas if finishing up the claw for good and Jude is working on GitHub documentation
 
-<img src="Media/CircleBase.jpg" width="200" height="200">    <img src="Media/CircleBase2.jpg" width="200" height="200"> 
+<img src="Media/CircleBase.JPG" width="200" height="200">    <img src="Media/CircleBase2.JPG" width="200" height="200"> 
