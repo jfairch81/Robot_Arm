@@ -36,5 +36,7 @@
 * On Wednesday Lukas resized box and started Resizing the arm to be a little smaller because compared to the box it was very large
 * On Wednesday Jude started and finished the base on which the entire arm will turn, He added holders for servos also
 * Thursday Lukas if finishing up the claw for good and Jude is working on GitHub documentation
+* Friday Jude has made a few adjustments to the Base to make sure there are no problems with the servos
+* Lukas had a minor setback as one of his mates made the motion study not work so he worked on that and figured it out and is doing the motion study
 
 <img src="Media/CircleBase.JPG" width="400" height="200">    <img src="Media/CircleBase2.JPG" width="400" height="200"> 
