@@ -30,6 +30,8 @@
 
 <img src="Media/Claw_Closed_Image.png" width="200" height="200">    <img src="Media/Claw_Open_Image.png" width="200" height="200">
 
+<img src="Media/Claw_Open_PhotoView360.png" width="400" height="400">
+
 ### Week 4 (Feb 10 - 14) - *Ahead of Schedule*
 
 * Monday Jude and Lukas rethought sizing of the box and arm
