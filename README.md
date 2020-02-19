@@ -30,7 +30,7 @@
 
 <img src="Media/Claw_Closed_Image.png" width="200" height="200">    <img src="Media/Claw_Open_Image.png" width="200" height="200">
 
-<img src="Media/Claw_Open_PhotoView360.png" width="400" height="400">
+
 
 ### Week 4 (Feb 10 - 14) - *Ahead of Schedule*
 
@@ -42,3 +42,5 @@
 * Lukas had a minor setback as one of his mates made the motion study not work so he worked on that and figured it out and is doing the motion study
 
 <img src="Media/CircleBase.JPG" width="400" height="200">    <img src="Media/CircleBase2.JPG" width="400" height="200"> 
+
+<img src="Media/Claw_Open_PhotoView360.png" width="400" height="400">
