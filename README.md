@@ -44,3 +44,11 @@
 <img src="Media/CircleBase.JPG" width="400" height="200">    <img src="Media/CircleBase2.JPG" width="400" height="200"> 
 
 <img src="Media/Claw_Open_PhotoView360.png" width="400" height="400">
+
+### Week 5 (Feb 17 - 21) - *Ahead of Schedule*
+
+* Monday Jude and Lukas did a check in
+* Wednesday Lukas started the Gear System
+* Wednesday Jude made servo heads that were gears to turn with the Gear System
+* Thursday Jude Started one part of the arm
+* Thursday Lukas continued the Gear System
