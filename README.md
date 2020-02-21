@@ -50,5 +50,5 @@
 * Monday Jude and Lukas did a check in
 * Wednesday Lukas started the Gear System
 * Wednesday Jude made servo heads that were gears to turn with the Gear System
-* Thursday Jude Started one part of the arm
+* Thursday Jude Started on a connection part of the Arm
 * Thursday Lukas continued the Gear System
