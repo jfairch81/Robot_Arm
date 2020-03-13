@@ -59,9 +59,9 @@
 
 ### Week 7 (Mar 2 - 6) 
 
-<img src="Media/CircleBase_Box_Assembly.JPG" width="350" height="350">
+<img src="Media/CircleBase_Box_Assembly.JPG" width="350" height="350">       <img src="Media/Claw_Gear_Assem_Side%20View.JPG" width="350" height="350">
 
-<img src="Media/Claw_Gear_Assem_Side%20View.JPG" width="350" height="350">
+
 
 ### Week 8 (Mar 9 - 13)
 
