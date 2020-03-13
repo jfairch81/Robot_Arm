@@ -52,3 +52,21 @@
 * Wednesday Jude made servo heads that were gears to turn with the Gear System
 * Thursday Jude Started on a connection part of the Arm
 * Thursday Lukas continued the Gear System
+
+### Week 6 (Feb 24 - 28)
+
+
+
+### Week 7 (Mar 2 - 6) 
+
+
+
+### Week 8 (Mar 9 - 13)
+
+
+
+### Week 9 (Mar 16 - 20)
+
+
+
+### Week 10 (Mar 23 - 27)
