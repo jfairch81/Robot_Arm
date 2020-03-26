@@ -54,8 +54,15 @@
 * Thursday Lukas continued the Gear System
 
 ### Week 6 (Feb 24 - 28)
+* Monday Lukas worked on the gear system, specifically adding stands to hold up arm system
 
+* Tuesday Lukas refigured some measurements on the gear system to make it operate more efficiently
 
+* Wendesday Lukas Had to fix some issues after a piece was referenced to something and ended up altering the assembly.
+
+* Thursday Lukas 
+
+* Friday
 
 ### Week 7 (Mar 2 - 6) 
 
